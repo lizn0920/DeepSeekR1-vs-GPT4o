@@ -5,7 +5,6 @@ import json
 import csv
 from openai import OpenAI
 
-# sk-8f95511e309041a3ab64101e380a31ee
 client = OpenAI(
     api_key="your-api",
     base_url="https://api.deepseek.com/v1",
