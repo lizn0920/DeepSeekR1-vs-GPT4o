@@ -1,0 +1,873 @@
+[
+    {
+        "question": "A有限公司有甲、乙及丙3位股東，各出資新臺幣100萬元，由甲擔任董事，下列關於乙、丙監督甲業務執行之敘述，何者正確？",
+        "choices": {
+            "A": "(A) 乙、丙得隨時向執行業務之股東質詢公司營業情形，但應共同為之",
+            "B": "(B) 乙、丙得隨時查閱公司之財產文件、帳簿、表冊，但應共同為之",
+            "C": "(C) 若甲違反競業禁止規定，自其所得產生後未逾1年者，乙、丙得以經表決權過半數之決議，將甲為自己或他人所為行為之所得，作為公司之所得",
+            "D": "(D) 若甲執行業務，有重大損害公司之行為或違反法令或章程之重大事項，乙或丙得訴請法院裁判解任之"
+        },
+        "answer": "C",
+        "date": 112,
+        "gpt_answer": "D",
+        "deepseek_answer": "C"
+    },
+    {
+        "question": "從事科技業之A股份有限公司（下稱A公司）持有B股份有限公司（下稱B公司）全部已發行股份。B 公司因融資需要，債權人要求其須提供一定擔保。A 公司董事長甲考量 B 公司為 A 公司全資子公司，故以A公司所有土地為B公司設定抵押。查A公司章程並未有得對外保證條款。則依司法實務見解，前開設定抵押行為是否合法？",
+        "choices": {
+            "A": "(A) 合法，因B公司為A公司全資之子公司，經濟上本為一整體",
+            "B": "(B) 不合法，因A公司所有土地依法不得設定抵押予他人",
+            "C": "(C) 合法，因A公司並非為保證人，不違反公司法規定",
+            "D": "(D) 不合法，因A公司章程未有得對外保證條款"
+        },
+        "answer": "D",
+        "date": 112,
+        "gpt_answer": "D",
+        "deepseek_answer": "D"
+    },
+    {
+        "question": "甲為專門處理商事案件的律師，近來其客戶業績蓬勃發展，紛紛想轉換組織型態以因應公司資本與組織之需求，甲身為A、B、C、D四間公司之律師，就客戶需求之建議，下列敘述何者錯誤？",
+        "choices": {
+            "A": "(A) A 公司為有限公司，想轉換公司型態，甲建議 A 公司必須取得股東表決權過半數之同意後可轉換為股份有限公司，並應向公司的債權人分別通知及公告",
+            "B": "(B)  B 公司為兩合公司，想轉換公司型態，甲建議 B 公司取得三分之二以上股東之同意變更章程，將該公司變更為有限公司或股份有限公司",
+            "C": "(C) C公司為家族經營的股份有限公司，想轉換公司型態，甲建議該公司得經代表已發行股份總數三分之二以上股東出席之股東會，以出席股東表決權過半數之同意，變更為閉鎖性股份有限公司",
+            "D": "(D) D 公司為閉鎖性股份有限公司，想轉換為一般股份有限公司，甲建議 D 公司得經有代表已發行股份總數三分之二以上股東出席之股東會，以出席股東表決權過半數之同意，即可為之"
+        },
+        "answer": "C",
+        "date": 112,
+        "gpt_answer": "A",
+        "deepseek_answer": "B"
+    },
+    {
+        "question": "下列何者非屬公司負責人？",
+        "choices": {
+            "A": "(A) 依公司法第173條報經主管機關許可自行召集股東會之少數股東",
+            "B": "(B) 依公司法第245條聲請法院選派檢查公司業務帳目及財產情形之檢查人",
+            "C": "(C) 有限公司之經理人但未兼任該公司董事",
+            "D": "(D) 法院依公司法第208條之1選任之臨時管理人"
+        },
+        "answer": "A",
+        "date": 112,
+        "gpt_answer": "A",
+        "deepseek_answer": "A"
+    },
+    {
+        "question": "A有限公司於民國110年初設立，原本無設立分公司之規劃，未於章程中記載分公司設立之相關事項。於同年底，未先變更章程便於嘉義設立分公司，則設立分公司之效力如何？",
+        "choices": {
+            "A": "(A) 無效",
+            "B": "(B) 效力未定，須俟章程變更後始生效力",
+            "C": "(C) 無對抗效力",
+            "D": "(D) 有效"
+        },
+        "answer": "D",
+        "date": 112,
+        "gpt_answer": "D",
+        "deepseek_answer": "D"
+    },
+    {
+        "question": "甲支持自己的一雙子女乙、丙創業，乙成立了非公開發行之A股份有限公司（下稱A公司），丙成立了B閉鎖性股份有限公司（下稱B公司），甲對A、B公司各出資一千萬元而取得A、B公司的複數表決權特別股，但為了避免子女缺乏商場經驗、輕率魯莽導致公司經營不善虧損連連，甲要求擔任A、B公司的監察人。下列敘述何者錯誤？",
+        "choices": {
+            "A": "(A) 關於公司的董事選舉，A公司之選舉只能採取累積投票制，B公司得以章程排除累積投票制",
+            "B": "(B) 關於公司監察人選舉，甲在 B 公司之特別股擁有複數表決權，但在 A 公司之特別股，其表決權與普通股股東之表決權同",
+            "C": "(C) 為了保障公司經營與股權穩定，A、B公司均可發行限制轉讓之特別股予甲",
+            "D": "(D) 為了節省公司經營成本，A、B公司均得以章程允許股東會與董事會透過視訊或書面開會"
+        },
+        "answer": "D",
+        "date": 112,
+        "gpt_answer": "D",
+        "deepseek_answer": "B"
+    },
+    {
+        "question": "股份有限公司之股東，欲請求公司監察人為公司對違法之董事提起訴訟，至少應具備下列何種資格？",
+        "choices": {
+            "A": "(A) 繼續6個月以上，持有已發行股份總數1%以上之股東",
+            "B": "(B) 繼續6個月以上，持有已發行股份總數3%以上之股東",
+            "C": "(C) 繼續1年以上，持有已發行股份總數1%以上之股東",
+            "D": "(D) 繼續1年以上，持有已發行股份總數3%以上之股東"
+        },
+        "answer": "A",
+        "date": 112,
+        "gpt_answer": "A",
+        "deepseek_answer": "A"
+    },
+    {
+        "question": "關於公司法第172條之1的股東提案權，下列敘述何者正確？",
+        "choices": {
+            "A": "(A) 股東提案權非股東之固有權，得以章程限制或免除",
+            "B": "(B) 股東提案權為少數股東權，限持股百分之三以上之股東方可提案",
+            "C": "(C) 只限股東常會，股東才享有提案權",
+            "D": "(D) 董事會對於股東之提案，如不列入議案時，應於股東會後說明未列入之理由"
+        },
+        "answer": "C",
+        "date": 112,
+        "gpt_answer": "C",
+        "deepseek_answer": "C"
+    },
+    {
+        "question": "A 公司持有 B 公司已發行有表決權股份總數之百分之六十，A 公司及 B公司分別持有 C 公司已發行有表決權股份總數之百分之三十。甲雖持有C公司已發行股份總數之百分之三，但全部皆為無表決權股份。若A公司基於對C公司之控制力，促使C公司以市價五成之價格賤賣其不動產給B公司，且未於該會計年度終了時對C公司為適當補償，下列敘述何者錯誤？",
+        "choices": {
+            "A": "(A) A公司及其負責人應就C公司之損害負連帶賠償責任",
+            "B": "(B) B公司於其所受利益限度內，就A公司應負之損害賠償責任，應連帶負責",
+            "C": "(C) C公司之債權人得以自己名義行使C公司對A公司及其負責人之求償權，請求對C公司為給付",
+            "D": "(D) 甲得以自己名義行使C公司對A公司及其負責人之求償權，請求對C公司為給付"
+        },
+        "answer": "D",
+        "date": 112,
+        "gpt_answer": "D",
+        "deepseek_answer": "D"
+    },
+    {
+        "question": "A 股份有限公司（下稱 A 公司）為 B 股份有限公司（下稱 B公司）百分之百持股之從屬公司。B 公司擬以 A 公司為存續公司，吸收合併 C 股份有限公司（下稱 C 公司），但此宗合併案受到 B 公司股東甲、C公司股東乙反對。若此宗合併案通過後，甲、乙何人能主張股份收買請求權？",
+        "choices": {
+            "A": "(A) 甲",
+            "B": "(B) 乙",
+            "C": "(C) 甲與乙皆可",
+            "D": "(D) 甲與乙皆不可"
+        },
+        "answer": "B",
+        "date": 112,
+        "gpt_answer": "D",
+        "deepseek_answer": "A"
+    },
+    {
+        "question": "A股份有限公司（下稱A公司）為上市公司，欲召開股東常會，下列何事項A公司得以臨時動議提出？",
+        "choices": {
+            "A": "(A) 董事甲欲擔任與A公司營業範圍相同之競爭B公司之董事長",
+            "B": "(B) A公司欲增加其章程所定之股份總數",
+            "C": "(C) A公司欲將年度應分派之股息以發行新股方式為之",
+            "D": "(D) A公司欲以股東會決議之方式同意本次轉投資後，公司轉投資總額為實收股本百分之五十"
+        },
+        "answer": "D",
+        "date": 112,
+        "gpt_answer": "D",
+        "deepseek_answer": "D"
+    },
+    {
+        "question": "A股份有限公司（下稱A公司）雖握有公司產品科技之重要專利，但是隨著科技推陳出新，舊有的技術無法趕上時代，A公司逐漸失去市場上的優勢，股價一落千丈。上個月A公司突然發生債務無法清償的財務危機，致公司岌岌可危而欲重整，關於重整的規定，下列敘述何者錯誤？",
+        "choices": {
+            "A": "(A) 為了保障員工的權益，A公司三分之二以上之受僱員工可以為公司聲請重整",
+            "B": "(B) 公司負債過於龐大，繼續6個月以上相當於公司已發行股份總數金額達百分之五之公司債權人可以向法院聲請重整",
+            "C": "(C) 一旦法院裁定重整，A公司原有的股東會、董事、監察人所有職權都必須停止",
+            "D": "(D) 法院裁定重整後，重整人應擬訂重整計畫，連同公司業務及財務報表，提請由股東與債權人組成的重整關係人會議審查"
+        },
+        "answer": "B",
+        "date": 112,
+        "gpt_answer": "A",
+        "deepseek_answer": "C"
+    },
+    {
+        "question": "非公開發行股票之A公司，董事均由股東親自擔任，公司主要營運地點於海外，日常業務之經營則均委由總經理決定。董事均事務繁忙，為求簡便，已修改章程允許公司董事會得採取書面會議。本次對於法務經理之聘任案，公司欲採用書面會議決定，5名董事中有3名贊成採書面會議方式並表示同意此一聘任案。其餘2名董事不贊成書面會議方式並表示反對此一聘任案。下列敘述，何者正確？",
+        "choices": {
+            "A": "(A) 本次會議合法，因章程已規定得採取書面會議",
+            "B": "(B) 本次會議不合法，贊成採書面會議之董事人數不足法定成數",
+            "C": "(C) 本次會議不合法，因未有三分之二以上董事贊成此一聘任案",
+            "D": "(D) 本次會議合法，因已有過半數董事贊成此一聘任案"
+        },
+        "answer": "B",
+        "date": 112,
+        "gpt_answer": "B",
+        "deepseek_answer": "B"
+    },
+    {
+        "question": "A股份有限公司（下稱A公司）董事甲，違法執行職務導致公司受損，股東會擬決議解任之。公司法有關解任董事之規定，下列敘述何者錯誤？",
+        "choices": {
+            "A": "(A) A公司股東會如欲通過解任董事甲之議案，其股東會應以特別決議為之",
+            "B": "(B) A公司股東會如未通過解任董事甲之議案，股東乙欲提起解任董事之訴，至少須持有已發行股份總數百分之三之股份",
+            "C": "(C) A公司股東會如未通過解任董事甲之議案，符合持股條件之股東如欲訴請法院裁判解任甲，應於股東會後30日內為之",
+            "D": "(D) A公司股東會如未通過解任董事甲之議案，監察人得隨時提起解任董事之訴"
+        },
+        "answer": "D",
+        "date": 112,
+        "gpt_answer": "D",
+        "deepseek_answer": "D"
+    },
+    {
+        "question": "A公司與B公司均為非公開發行之股份有限公司，雙方均知悉有相互投資之事實。A公司已發行股份總數共3,000萬股，B公司已發行股份總數共1,500萬股，均為有表決權股份。若A公司持有B公司600萬股，B公司持有A公司1,000萬股，均非因盈餘或公積增資配股所得之股份，則A公司於B公司股東會最多得行使表決權之股份數為多少？",
+        "choices": {
+            "A": "(A) 500萬股",
+            "B": "(B) 300萬股",
+            "C": "(C) 200萬股",
+            "D": "(D) 0股"
+        },
+        "answer": "A",
+        "date": 112,
+        "gpt_answer": "D",
+        "deepseek_answer": "A"
+    },
+    {
+        "question": "甲父以其未出嫁而同居一家之女兒乙為被保險人投保終身人壽保險，並指定甲為受益人。於保險有效期間，乙結婚並與其配偶丙搬離娘家。數年後，乙死亡。下列敘述何者正確？",
+        "choices": {
+            "A": "(A) 甲不得請求保險給付，因乙出嫁與其配偶丙成家後，保險契約效力即行終止",
+            "B": "(B) 甲得請求保險給付，乙之出嫁並與配偶丙成家並不影響保險契約之效力，因人身保險僅在締結保險契約時具有保險利益即可",
+            "C": "(C) 甲不得請求保險給付，因乙出嫁與其配偶丙成家後，甲即喪失受益人資格，此時保險金為乙之遺產",
+            "D": "(D) 甲得請求保險給付，乙雖出嫁與其配偶丙成家，但對甲仍負有扶養義務，故保險人應在乙之扶養義務範圍內給付甲保險金"
+        },
+        "answer": "B",
+        "date": 112,
+        "gpt_answer": "B",
+        "deepseek_answer": "B"
+    },
+    {
+        "question": "甲展售高價鑽錶一批，與乙簽訂保全服務契約，並向A保險公司投保商業動產流動綜合保險。因乙之過失，保全系統失效，致鑽錶失竊。A保險公司於賠付保險金後，得否向乙主張代位權？",
+        "choices": {
+            "A": "(A) 可，因甲對乙具有損害賠償請求權",
+            "B": "(B) 可，但僅以甲對乙有侵權行為損害賠償請求權為限",
+            "C": "(C) 不可，因甲對乙的請求權基礎係基於契約關係",
+            "D": "(D) 不可，因甲對乙的請求權係基於侵權行為損害賠償請求權"
+        },
+        "answer": "A",
+        "date": 112,
+        "gpt_answer": "A",
+        "deepseek_answer": "A"
+    },
+    {
+        "question": "A保險公司欲投資不動產，依目前保險法之規定，下列敘述何者錯誤？",
+        "choices": {
+            "A": "(A) 其投資總額，除自用不動產外，不得超過其資金百分之三十",
+            "B": "(B) 購買之自用不動產總額不得超過其業主權益之總額",
+            "C": "(C) 保險業對不動產之投資，以所投資不動產能即時利用為限，但不以立即有收益為必要",
+            "D": "(D) 對不動產之取得及處分，應經合法之不動產鑑價機構評價"
+        },
+        "answer": "C",
+        "date": 112,
+        "gpt_answer": "A",
+        "deepseek_answer": "C"
+    },
+    {
+        "question": "甲經體檢發現自身甲狀腺腫大，乃以自己為被保險人，指定其妻乙為受益人，投保死亡保險，但對要保書之詢問隱匿此項檢查異常情況。然一年後甲發生重大車禍，不治死亡。乙向保險人請求保險金，保險人發現甲於投保時不實說明，得否拒絕理賠？",
+        "choices": {
+            "A": "(A) 保險人得拒絕理賠，但乙可主張自己善意不知情",
+            "B": "(B) 保險人依保險法第64條規定解除契約後即無須理賠",
+            "C": "(C) 因甲之死亡與其違反據實說明義務間並無因果關係，保險人不得拒絕理賠，但得請求賠償因此所受之損害",
+            "D": "(D) 乙得證明甲之死亡並非基於其所隱匿之體況，保險人仍應給付保險金"
+        },
+        "answer": "D",
+        "date": 112,
+        "gpt_answer": "C",
+        "deepseek_answer": "B"
+    },
+    {
+        "question": "A醫院向B保險公司投保醫院綜合責任險，保險金額每一事故新臺幣（下同）300萬元。甲女就診期間因施打麻醉劑休克死亡，A醫院在B保險公司人員參與下與甲女家屬達成600萬元和解。嗣後，B保險公司以參與和解當時其並未明示或默示同意和解金額為由，拒絕 A 醫院之理賠申請。下列關於本責任保險人和解參與權之敘述，何者正確？",
+        "choices": {
+            "A": "(A) 參與權包括保險人之和解參加權及和解同意權二權利，亦即保險人未同意和解，保險人不受該和解之拘束",
+            "B": "(B) 參與權包括保險人之和解參加權及和解同意權二權利，亦即保險人未同意和解，保險人免除其理賠責任",
+            "C": "(C) 參與權僅包括和解參加權，不包括和解同意權，保險人一旦參與和解，保險人即應受和解效力之拘束",
+            "D": "(D) 參與權僅包括和解參加權，不包括和解同意權，保險人參與和解，除有正當理由得拒絕和解條件或其他除外不保理由外，保險人在保險金額範圍內應受和解之拘束"
+        },
+        "answer": "D",
+        "date": 112,
+        "gpt_answer": "A",
+        "deepseek_answer": "D"
+    },
+    {
+        "question": "甲以其14歲女兒乙為被保險人，向A保險公司投保人壽保險，該契約效力為何？",
+        "choices": {
+            "A": "(A) 效力未定，須待乙滿15歲時契約方生效",
+            "B": "(B) 契約無效",
+            "C": "(C) 乙未滿15歲，死亡險部分無效，其他部分若能單獨成立，則仍然有效",
+            "D": "(D) 契約有效，但除喪葬費用之給付外，其餘死亡給付之約定於乙滿15歲時始生效力"
+        },
+        "answer": "D",
+        "date": 112,
+        "gpt_answer": "C",
+        "deepseek_answer": "D"
+    },
+    {
+        "question": "甲以自己為被保險人投保人壽保險，並指定其配偶乙為受益人，保險契約中有條款約定，變更受益人須以書面申請並經保險公司同意且批註後始生效力。於保險期間，甲以書面申請變更受益人為其母校A大學，但在保險公司未批註後即死亡。依目前保險法令及通說見解，下列敘述，何者正確？",
+        "choices": {
+            "A": "(A) 保險契約之受益人已變更為A大學，故A大學有保險給付請求權",
+            "B": "(B) 因保險公司未完成批註，保險契約之受益人仍為乙，故乙有保險給付請求權",
+            "C": "(C) 因A大學與甲之間並無保險利益，故此變更受益人不生效力，保險契約之受益人仍為乙，故乙有保險給付請求權",
+            "D": "(D) 保險公司雖收受受益人變更申請書，但保險契約之受益人變更尚須保險人同意始生效力，故乙有保險給付請求權"
+        },
+        "answer": "A",
+        "date": 112,
+        "gpt_answer": "B",
+        "deepseek_answer": "A"
+    },
+    {
+        "question": "下列關於再保險之敘述，何者錯誤？",
+        "choices": {
+            "A": "(A) 再保險依其性質應為責任保險",
+            "B": "(B) 原保險契約與再保險契約得以條款約定，原保險契約之被保險人於保險人無法履行保險責任時，得向再保險人請求",
+            "C": "(C) 再保險人不得向原保險契約之要保人請求交付保險費",
+            "D": "(D) 原保險契約得以條款約定，再保險不履行其給付義務時，保險人得拒絕或延遲其保險金給付義務"
+        },
+        "answer": "D",
+        "date": 112,
+        "gpt_answer": "D",
+        "deepseek_answer": "D"
+    },
+    {
+        "question": "甲簽發金額新臺幣（下同）10萬元，A為付款人，一個月後到期之匯票予乙作為購買其二手車之部分價金。後因家人反對購買二手車而解除契約，並賠償乙現金8千元以彌補其損失。乙告知甲已將該票銷毀，然事實上卻將該票空白背書轉讓予善意之丙，以償還其所積欠款項。丙隨後得知丁近日與朋友共同創立公司，隨即又再將該票直接交付並贈與善意之丁，表示鼓勵年輕人創業。若該票到期不獲付款，下列敘述何者正確？",
+        "choices": {
+            "A": "(A) 丁得對甲及乙行使追索權",
+            "B": "(B) 丁僅得對甲行使追索權，不得對乙行使追索權",
+            "C": "(C) 丁僅得對乙行使追索權，不得對甲行使追索權",
+            "D": "(D) 因丁為無償取得，故丁對甲及乙均不得行使追索權"
+        },
+        "answer": "A",
+        "date": 112,
+        "gpt_answer": "A",
+        "deepseek_answer": "A"
+    },
+    {
+        "question": "依票據法第22條規定，關於利益償還請求權之敘述，下列何者正確？",
+        "choices": {
+            "A": "(A) 利益償還請求權人以最後之被背書人為限",
+            "B": "(B) 匯票、本票之發票人及其保證人，支票之發票人、匯票之承兌人均為利益償還請求權之償還義務人",
+            "C": "(C) 執票人得就其所受損害行使利益償還請求權",
+            "D": "(D) 票據上之權利，係依票據法因時效或手續之欠缺而消滅時，執票人始得主張利益償還請求權"
+        },
+        "answer": "D",
+        "date": 112,
+        "gpt_answer": "D",
+        "deepseek_answer": "D"
+    },
+    {
+        "question": "甲簽發一紙以A為付款人之匯票予受款人乙，乙背書讓與丙，丙再背書讓與丁，丁則委任取款背書予戊。當戊向A付款提示而被拒付時，戊不得向下列何人主張票據責任？",
+        "choices": {
+            "A": "(A) 甲",
+            "B": "(B) 乙",
+            "C": "(C) 丙",
+            "D": "(D) 丁"
+        },
+        "answer": "D",
+        "date": 112,
+        "gpt_answer": "D",
+        "deepseek_answer": "D"
+    },
+    {
+        "question": "甲簽發匯票一紙交付給乙，依序由乙、丙、丁記名背書，執票人戊之子己趁戊不注意時，將其好友丙之簽名塗銷，若匯票於到期日不獲付款，戊可向下列何人行使追索權？",
+        "choices": {
+            "A": "(A) 僅甲、乙",
+            "B": "(B) 僅甲、乙、丁",
+            "C": "(C) 僅甲、乙、丙、丁",
+            "D": "(D) 僅甲、乙、己"
+        },
+        "answer": "C",
+        "date": 112,
+        "gpt_answer": "B",
+        "deepseek_answer": "C"
+    },
+    {
+        "question": "甲簽發一張以 A 為付款人之匯票交付予乙，乙除背書外並請求 B 在票據上簽名為其保證，然後將票據轉讓予丙，丙除背書外於該票記載在付款地的C為預備付款人，然後將該票據轉讓予丁，丁於到期日前向A請求承兌遭拒，丁得對何人行使期前追索權？",
+        "choices": {
+            "A": "(A) 甲、乙、丙、A、B",
+            "B": "(B) 甲、乙、丙、B、C",
+            "C": "(C) 甲、乙、丙、B",
+            "D": "(D) 甲、乙、丙、C"
+        },
+        "answer": "C",
+        "date": 112,
+        "gpt_answer": "C",
+        "deepseek_answer": "C"
+    },
+    {
+        "question": "房客甲所承租之房屋，大門門鎖損壞，向房東乙請求支付更換費用新臺幣1萬元，乙不願支付。爭議經調解後，乙勉為同意支付半價，惟刻意不肯支付現金，而開立3個月期本票予甲，意圖刁難；甲以乙之配偶丙須擔任票據保證人為條件，而答應接受本票。本票到期後，乙仍不願支付，甲依票據法及司法實務，可如何救濟？",
+        "choices": {
+            "A": "(A) 甲得向乙丙追索，並聲請法院裁定後強制執行乙丙財產",
+            "B": "(B) 甲得逕向丙追索，並聲請法院裁定後強制執行丙財產",
+            "C": "(C) 甲於向乙追索無效後，得向丙追索，並聲請法院裁定後強制執行丙財產",
+            "D": "(D) 甲得向乙丙追索，追索無效後，得聲請法院裁定後強制執行乙財產"
+        },
+        "answer": "D",
+        "date": 112,
+        "gpt_answer": "A",
+        "deepseek_answer": "A"
+    },
+    {
+        "question": "臺北市 A 公司董事長甲簽發該公司以桃園市 B 銀行為付款人之支票予乙，作為買賣價金，票載發票日為105年4月1日，其後乙再將該支票背書轉讓予丙，甲於105年4月10日發現貨物有顯著瑕疵，即通知乙解除買賣契約，並同時通知B銀行撤銷付款之委託，丙於105年4月18日向B銀行提示未獲付款，下列敘述，何者正確？",
+        "choices": {
+            "A": "(A) 丙之付款提示未逾法定提示期間",
+            "B": "(B) 如付款銀行B拒絕付款，丙得對乙行使追索權",
+            "C": "(C) 如付款銀行B拒絕付款，丙喪失對甲的追索權",
+            "D": "(D) 付款銀行B不得付款"
+        },
+        "answer": "D",
+        "date": 112,
+        "gpt_answer": "A",
+        "deepseek_answer": "D"
+    },
+    {
+        "question": "甲簽發劃有平行線支票一張予乙，乙背書轉讓予丙，丙再背書轉讓予丁時，丁要求丙將平行線撤銷，依票據法規定，下列敘述何者正確？",
+        "choices": {
+            "A": "(A) 該支票不得撤銷平行線",
+            "B": "(B) 甲在平行線內簽章即可撤銷",
+            "C": "(C) 乙在平行線內簽章即可撤銷",
+            "D": "(D) 丙在平行線內簽章即可撤銷"
+        },
+        "answer": "A",
+        "date": 112,
+        "gpt_answer": "A",
+        "deepseek_answer": "A"
+    },
+    {
+        "question": "甲簽發記名匯票一紙予乙，票面金額新臺幣100萬元整，乙背書轉讓予丙，若丙背書轉讓予丁時，丙於背書時所為之下列何項行為，將使丙之背書不生效力？",
+        "choices": {
+            "A": "(A) 將乙之背書塗銷",
+            "B": "(B) 記載戊為預備付款人",
+            "C": "(C) 丙背書旁附記「丁應依契約履約，否則本背書無效」",
+            "D": "(D) 丙背書旁註記「轉讓金額新臺幣80萬元」"
+        },
+        "answer": "D",
+        "date": 112,
+        "gpt_answer": "C",
+        "deepseek_answer": "D"
+    },
+    {
+        "question": "日為到期日，並記載乙為受款人之本票，交付給乙後，乙又將該本票交付轉讓給丙，丙擅自偽造乙之背書，並將到期日更改為同年9月1日後背書轉讓給善意的丁，丁於同年9月1日向甲提示付款被拒，下列敘述，何者正確？",
+        "choices": {
+            "A": "(A) 依該票據外觀，其背書連續，且因屆期未獲付款，故丁得持該票據對甲、乙及丙行使追索權",
+            "B": "(B) 依該票據外觀，其背書連續，但乙得以背書被偽造為由對抗丁，不用負票據責任",
+            "C": "(C) 因乙之背書是被偽造，該票據之背書不連續，故丁無法行使任何票據權利",
+            "D": "(D) 因乙之背書是被偽造，該票據之背書不連續，但乙背書之偽造不影響其他真正簽名者之效力，故丁僅得對丙行使追索權"
+        },
+        "answer": "B",
+        "date": 112,
+        "gpt_answer": "D",
+        "deepseek_answer": "B"
+    },
+    {
+        "question": "股票上市之A股份有限公司（下稱A公司）董事長甲，知悉足以影響該公司股價之消息，於該消息公開前，以新臺幣（下同）100元買進該公司股份10,000股，迄今尚未賣出，該消息公開後翌日，A公司股票收盤價為115元，消息公開後10個營業日A公司股票平均收盤價為140元，若甲之行為被法院認定構成內線交易，依最高法院大法庭之見解，計算甲之內線交易犯罪所得之敘述，下列何者正確？",
+        "choices": {
+            "A": "(A) 甲未賣出，故無犯罪所得",
+            "B": "(B) 計算犯罪所得時，不應扣除證券交易稅及手續費",
+            "C": "(C) 甲之犯罪所得採擬制所得法計算",
+            "D": "(D) 若有該內線消息以外因素影響A公司股價，應將該因素影響之股價自犯罪所得中扣除"
+        },
+        "answer": "C",
+        "date": 112,
+        "gpt_answer": "C",
+        "deepseek_answer": "D"
+    },
+    {
+        "question": "A上市公司（下稱A公司）為激勵優秀員工，擬採行庫藏股制度，使員工經由取得股份，對公司產生向心力，下列敘述何者合法？",
+        "choices": {
+            "A": "(A) 得經董事會三分之二以上董事之出席及出席董事超過二分之一同意，向A公司之大股東買回股份",
+            "B": "(B) A公司買回股份之數量比例，不得超過該公司已發行股份總數百分之一",
+            "C": "(C) A公司收買股份之總金額，不得逾法定盈餘公積",
+            "D": "(D) A公司收買自己之股份轉讓於員工時，得限制員工在一定期間內不得轉讓。但其期間最長不得超過2年"
+        },
+        "answer": "D",
+        "date": 112,
+        "gpt_answer": "D",
+        "deepseek_answer": "D"
+    },
+    {
+        "question": "A 上市公司（下稱 A 公司）近期以私募股份之方式，籌措公司投資所需之資金。甲為此次 A 公司私募有價證券之購買人。依證券交易法之規定，下列敘述何者錯誤？",
+        "choices": {
+            "A": "(A) 此次有價證券私募應經股東會通過，且公司得於該股東會決議之日起2年內，分次辦理",
+            "B": "(B) 此次有價證券私募，該公司之員工及原股東並無優先認購權",
+            "C": "(C) A公司只要在私募有價證券之價款繳納完成日起15日內，檢附相關書件，報請主管機關備查即可，無須事先向主管機關申報",
+            "D": "(D) 若甲持有該私募有價證券尚未滿3年，得以私人間之直接讓受，其數量不超過該證券一個交易單位，前後2次之讓受行為，相隔不少於3個月之方式賣出"
+        },
+        "answer": "A",
+        "date": 112,
+        "gpt_answer": "A",
+        "deepseek_answer": "A"
+    },
+    {
+        "question": "關於證券交易法規範之對象，下列敘述何者錯誤？",
+        "choices": {
+            "A": "(A) 募集設立之公司在設立登記前，發起人不負發行人責任",
+            "B": "(B) 外國公司係以營利為目的，依照外國法律組織登記之公司",
+            "C": "(C) 公司制證券交易所之組織，以股份有限公司為限",
+            "D": "(D) 除兼營之金融機構外，證券商須為股份有限公司"
+        },
+        "answer": "A",
+        "date": 112,
+        "gpt_answer": "A",
+        "deepseek_answer": "A"
+    },
+    {
+        "question": "A公司為一家從事汽車輪胎生產的上市公司，該公司設有甲、乙、丙、丁、戊5名董事。依證券交易法之規定，下列敘述何者錯誤？",
+        "choices": {
+            "A": "(A) 公開發行公司董事會之董事人數不得少於5人，故A公司不得以章程降低董事人數",
+            "B": "(B) 除經主管機關核准者外，甲、乙、丙、丁、戊5名董事間應有超過半數之席次，不得具有配偶或三親等以內之親屬關係",
+            "C": "(C) 法人為 A 公司之股東時，除經主管機關核准者外，不得由其代表人同時當選或擔任公司之董事及監察人",
+            "D": "(D) 若甲、乙、丙、丁、戊5人中有2人解任，則A公司應自事實發生之日起60日內，召開股東臨時會補選之"
+        },
+        "answer": "B",
+        "date": 112,
+        "gpt_answer": "B",
+        "deepseek_answer": "B"
+    },
+    {
+        "question": "A上市公司今年第一季財務報告，因隱匿重要內容而有不實。關於財報不實責任之敘述，下列何者正確？",
+        "choices": {
+            "A": "(A) 總經理甲故意違法，其應依其責任比例負賠償責任",
+            "B": "(B) 董事長乙如能證明已盡相當注意，且有正當理由可合理確信其內容無隱匿情事者，免負賠償責任",
+            "C": "(C) 財務報告之核閱會計師丙若不能證明自己已經合理調查，並有正當理由確信其核閱意見為真實者，即應負賠償責任",
+            "D": "(D) 請求賠償之原告須能證明在本財務報告簽章之職員丁有不正當或過失行為，方可要求丁負損害賠償責任"
+        },
+        "answer": "B",
+        "date": 112,
+        "gpt_answer": "B",
+        "deepseek_answer": "B"
+    },
+    {
+        "question": "A上市公司之某次審計委員會中，下列議案均未獲審計委員會全體成員二分之一以上同意，下列何項議案不得由全體董事三分之二以上同意行之？",
+        "choices": {
+            "A": "(A) 經董事長、經理人、會計主管簽名或蓋章之年度財務報告案",
+            "B": "(B) 財務主管甲之任命案",
+            "C": "(C) 簽證會計師乙之委任案",
+            "D": "(D) 重大之資產或衍生性商品交易案"
+        },
+        "answer": "A",
+        "date": 112,
+        "gpt_answer": "A",
+        "deepseek_answer": "D"
+    },
+    {
+        "question": "我國證券市場發展日益興盛，營運多樣之證券商居功不少，而各種類型證券商所面對的管制亦有不同，依照證券交易法，下列敘述何者錯誤？",
+        "choices": {
+            "A": "(A) 證券承銷商辦理有價證券之承銷",
+            "B": "(B) 證券經紀商辦理有價證券買賣之行紀、居間、代理、承銷",
+            "C": "(C) 證券自營商辦理有價證券之自行買賣",
+            "D": "(D) 證券交易法下證券商可以區分為證券承銷商、證券自營商、證券經紀商等三種"
+        },
+        "answer": "B",
+        "date": 112,
+        "gpt_answer": "B",
+        "deepseek_answer": "B"
+    },
+    {
+        "question": "A上市公司（下稱A公司）為了擴大公司競爭力、發展垂直經濟，而B上市公司（下稱B公司），具有良好體質與市場潛力，因此A公司擬針對B公司進行公開收購，但在過程中，因為發生一些情況，需要改變公開收購條件，依證券交易法之規定，下列何者改變條件原則上屬於合法？",
+        "choices": {
+            "A": "(A) 調降公開收購價格",
+            "B": "(B) 降低預定公開收購有價證券數量",
+            "C": "(C) 延長公開收購期間",
+            "D": "(D) 縮短公開收購期間"
+        },
+        "answer": "C",
+        "date": 112,
+        "gpt_answer": "C",
+        "deepseek_answer": "C"
+    },
+    {
+        "question": "A公司為一家從事乳品販售之上市公司，該公司設有甲、乙、丙、丁、戊、己、庚、辛、壬9名董事，其中甲、乙、丙、丁、戊5人為獨立董事。A公司並設有審計委員會。依證券交易法之規定，下列敘述何者正確？",
+        "choices": {
+            "A": "(A) A公司得由甲、乙、丙3名獨立董事組成審計委員會",
+            "B": "(B) A公司審計委員會成員中至少1人應具備會計或財務專長",
+            "C": "(C) A公司董事會不得變更審計委員會之決議",
+            "D": "(D) A公司審計委員會成員對其職權所有事項，均得各自獨立行使"
+        },
+        "answer": "B",
+        "date": 112,
+        "gpt_answer": "B",
+        "deepseek_answer": "B"
+    },
+    {
+        "question": "已經假扣押執行之財產，受政府機關依法強制徵收。下列敘述，何者錯誤？",
+        "choices": {
+            "A": "(A) 假扣押之執行效力，繼續存在於該財產因政府機關強制徵收後之代替利益",
+            "B": "(B) 執行法院應將其補償金額提存",
+            "C": "(C) 假扣押債權人之債權，不因強制徵收而受影響",
+            "D": "(D) 假扣押債權人以其債權對於政府機關強制徵收後之代替利益為終局執行時，毋須另行取得執行名義"
+        },
+        "answer": "D",
+        "date": 112,
+        "gpt_answer": "D",
+        "deepseek_answer": "D"
+    },
+    {
+        "question": "債權人甲持金錢債權執行名義，聲請法院就債務人乙所有之 A 屋為強制執行，該屋拍賣由丙拍定繳清價款後，法院發給權利移轉證書。下列敘述，何者正確？",
+        "choices": {
+            "A": "(A) 如點交時發現A屋係海砂屋，丙得請求法院撤銷拍賣",
+            "B": "(B) 如點交時發現A屋係海砂屋，丙得請求法院減少拍賣價金",
+            "C": "(C) 如點交時發現A屋於法院核發權利移轉證書前已滅失，丙得請求法院撤銷拍賣",
+            "D": "(D) 如點交時發現A屋於法院核發權利移轉證書後滅失，丙得請求法院解除拍賣"
+        },
+        "answer": "C",
+        "date": 112,
+        "gpt_answer": "C",
+        "deepseek_answer": "C"
+    },
+    {
+        "question": "萬元予乙，供其向乙借款500萬元之擔保。嗣丙持法院對甲核發之確定支付命令，聲請臺灣彰化地方法院民事執行處（下稱彰化地院）強制執行A地後，復由甲之另一債權人丁持確定終局判決，聲請彰化地院對該地為強制執行。彰化地院合併其執行程序，嗣由戊拍定並繳清價金。下列敘述，何者錯誤？",
+        "choices": {
+            "A": "(A) 倘彰化地院已知乙之借款500萬元未受清償，應將其金額列入分配，應徵收之執行費，於執行所得金額扣繳之",
+            "B": "(B) 丙繳交之執行費，得就A地拍賣所得價金優先受清償",
+            "C": "(C) 丙取得支付命令之費用，得就A地拍賣所得價金優先受清償",
+            "D": "(D) 丁屬再聲請強制執行之債權人，其繳交之執行費，得就A地拍賣所得價金優先受清償"
+        },
+        "answer": "C",
+        "date": 112,
+        "gpt_answer": "C",
+        "deepseek_answer": "C"
+    },
+    {
+        "question": "甲訴請乙應容忍其通行乙所有之A地，獲勝訴判決確定後，乙在該地上設置路障，阻礙甲之通行，甲聲請法院強制執行。下列敘述，何者錯誤？",
+        "choices": {
+            "A": "(A) 執行法院得處乙怠金",
+            "B": "(B) 乙經執行法院處怠金後，仍不履行時，執行法院得再處怠金或管收之",
+            "C": "(C) 甲得聲請法院拆除乙在A地上所設置之該路障",
+            "D": "(D) 執行法院得定期命乙拆除路障，於不履行時，逕予管收"
+        },
+        "answer": "D",
+        "date": 112,
+        "gpt_answer": "D",
+        "deepseek_answer": "D"
+    },
+    {
+        "question": "有關假處分之執行，下列敘述，何者錯誤？",
+        "choices": {
+            "A": "(A) 假處分之執行，應於假處分之裁定送達同時或送達前為之",
+            "B": "(B) 債權人收受假處分裁定後，應於30日內聲請強制執行",
+            "C": "(C) 假處分之裁定一經廢棄，執行法院不待債務人聲請，即應撤銷其已實行之執行處分",
+            "D": "(D) 假處分裁定為禁止債務人為一定之行為者，執行法院應將該裁定送達於債務人"
+        },
+        "answer": "C",
+        "date": 112,
+        "gpt_answer": "B",
+        "deepseek_answer": "C"
+    },
+    {
+        "question": "甲分別向乙、丙、丁各借款新臺幣（下同）100萬元，屆期均未清償。乙持假扣押裁定向法院聲請查封甲所有之 A 地，丙取得確定之支付命令後執以向法院聲請對 A 地為強制執行。A 地經法院拍賣得價金200萬元。下列敘述，何者錯誤？",
+        "choices": {
+            "A": "(A) 乙就該拍賣價金得受分配，惟其分配之金額應予提存",
+            "B": "(B) 丁於A地拍定前即已取得執行名義，惟於A地拍定後始聲明參與分配，就該地拍賣價金仍得受分配",
+            "C": "(C) 執行法院就丙所聲請之強制執行，無庸重覆進行查封程序，得逕行換價程序",
+            "D": "(D) 乙之假扣押執行程序並不妨礙丙之終局執行程序"
+        },
+        "answer": "B",
+        "date": 112,
+        "gpt_answer": "B",
+        "deepseek_answer": "B"
+    },
+    {
+        "question": "為執行名義之確定判決主文為：「甲應於乙給付新臺幣二千萬元之同時，將A地所有權移轉登記予乙。」下列何項時點，視為甲已為移轉A地所有權登記之意思表示，而無開始強制執行之必要？",
+        "choices": {
+            "A": "(A) 判決確定時",
+            "B": "(B) 乙已將新臺幣（下同）2,000萬元向提存所提存時",
+            "C": "(C) 強制執行聲請時",
+            "D": "(D) 銀行核發乙已給付2,000萬元之證明書時"
+        },
+        "answer": "B",
+        "date": 112,
+        "gpt_answer": "B",
+        "deepseek_answer": "B"
+    },
+    {
+        "question": "債權人甲聲請臺灣臺北地方法院民事執行處（下稱臺北地院）對債務人乙所有 A 地為假扣押執行後，乙之另一債權人丙復持假扣押裁定，聲請臺北地院對 A 地為假扣押執行，臺北地院即將丙聲請假扣押執行事件，合併於甲聲請假扣押執行程序。其後，甲撤回對A地之假扣押執行。下列敘述，何者正確？",
+        "choices": {
+            "A": "(A) 臺北地院應將A地之查封登記或揭示除去，另為丙進行假扣押執行之查封程序",
+            "B": "(B) 甲聲請假扣押執行之查封效力及於丙，臺北地院不得將A地之查封登記或揭示除去",
+            "C": "(C) 臺北地院應詢問丙之意見，得其同意後，對A地再為假扣押執行之查封程序",
+            "D": "(D) 臺北地院應得乙之同意後，對A地再為假扣押執行之查封程序"
+        },
+        "answer": "B",
+        "date": 112,
+        "gpt_answer": "B",
+        "deepseek_answer": "B"
+    },
+    {
+        "question": "債權人甲對債務人乙有新臺幣（下同）50萬元之執行債權，聲請法院就乙對雇主丙之每月薪資債權額三分之一為強制執行，執行法院對丙發扣押命令。下列敘述，何者錯誤？",
+        "choices": {
+            "A": "(A) 乙於扣押3個月後離職，對丙無薪資債權，該扣押命令一律失其效力",
+            "B": "(B) 該扣押命令之效力僅及於執行債權額50萬元及其執行費用額之範圍，超過部分不生扣押之效力",
+            "C": "(C) 該扣押命令之效力及於扣押後每月薪資，並包括嗣後調薪而增加之部分",
+            "D": "(D) 丙收受扣押命令後，仍得與乙合意終止僱傭契約"
+        },
+        "answer": "A",
+        "date": 112,
+        "gpt_answer": "A",
+        "deepseek_answer": "D"
+    },
+    {
+        "question": "of R.O.C. Civil Code, a person who engages in activities is liable for damagecharacteristictonatureoftheactivityandresultingfromit.",
+        "choices": {
+            "A": "(A) innocuous",
+            "B": "(B) ultra-hazardous",
+            "C": "(C) anodyne",
+            "D": "(D) nuisance"
+        },
+        "answer": "B",
+        "date": 112,
+        "gpt_answer": "B",
+        "deepseek_answer": "B"
+    },
+    {
+        "question": "In tort law, a is a hypothetical person used as a legal standard, especially to determine whethersomeoneactedwithnegligence.",
+        "choices": {
+            "A": "(A) artificialperson",
+            "B": "(B) controlperson",
+            "C": "(C) legalperson",
+            "D": "(D) reasonableperson"
+        },
+        "answer": "D",
+        "date": 112,
+        "gpt_answer": "D",
+        "deepseek_answer": "D"
+    },
+    {
+        "question": "Acourt-appointedguardianpersuadeshistwelve-year-oldchargetolendhimNTD100,000fromhistrustfund,freeofinterest.Theloancontractwouldbeunenforceablebecauseof .",
+        "choices": {
+            "A": "(A) unilateralmistake",
+            "B": "(B) lackofcapacitytomakeloancontractbyateenager",
+            "C": "(C) materialmisrepresentation",
+            "D": "(D) impossibilitytoperform"
+        },
+        "answer": "B",
+        "date": 112,
+        "gpt_answer": "B",
+        "deepseek_answer": "B"
+    },
+    {
+        "question": "Readthefollowingclausefromanagreement.Whatkindofagreementisit?“Employee agrees that he will not (i) disclose to any person, either directly or indirectly, any ConfidentialInformation,unlessandsolelytotheextentthatsuchConfidential Informationisrequired to bedisclosedbylaworpursuanttoafinaljudicialorderordecree,(ii)useforhisownaccountoruse,cause,facilitateorallowany third party to use Confidential Information in any way, or (iii) remove any Confidential Information orany copy, summary or compilation of any kind of any Confidential Information from the premises of theCompanyorthepremisesofanyCompany’scustomers.”",
+        "choices": {
+            "A": "(A) Anemploymentagreement",
+            "B": "(B) Aninformedconsentagreement",
+            "C": "(C) Anon-competitionagreement",
+            "D": "(D) Anon-disclosureagreement0"
+        },
+        "answer": "D",
+        "date": 112,
+        "gpt_answer": "D",
+        "deepseek_answer": "D"
+    },
+    {
+        "question": "DannyboughtacalffromHappyFarm.AfterDannypaid,HappyFarmdeliveredthecalftohim.Suddenly,acarrushedoutofnowhereandhitthecalf.UnderArticle373ofR.O.C.CivilCode,HappyFarmisnotliableforDanny'slossbecauseDannyhastoundertakethe whenitdeliveredthecalftoDanny.",
+        "choices": {
+            "A": "(A) crisis",
+            "B": "(B) hazaed",
+            "C": "(C) riskofloss",
+            "D": "(D) riskoflost"
+        },
+        "answer": "C",
+        "date": 112,
+        "gpt_answer": "C",
+        "deepseek_answer": "C"
+    },
+    {
+        "question": "Taiwan’sCompanyLawconcerning“Short-Form”merger(parentmergeswith90percentownedsubsidiary)relieson toassuredissentingshareholdershavetherighttoopt-out.",
+        "choices": {
+            "A": "(A) proposalrights",
+            "B": "(B) appraisalrights",
+            "C": "(C) votingrights",
+            "D": "(D) informationrights"
+        },
+        "answer": "B",
+        "date": 112,
+        "gpt_answer": "B",
+        "deepseek_answer": "B"
+    },
+    {
+        "question": "Adirector of a company limited by shares may be at will by a special resolution of a shareholders'meeting.",
+        "choices": {
+            "A": "(A) discontinued",
+            "B": "(B) discharged",
+            "C": "(C) disqualified",
+            "D": "(D) waived"
+        },
+        "answer": "B",
+        "date": 112,
+        "gpt_answer": "B",
+        "deepseek_answer": "B"
+    },
+    {
+        "question": "WhichofthefollowingstatementaboutcrossexaminationisINCORRECTunderTaiwanCriminalProcedureCode?",
+        "choices": {
+            "A": "(A) Leadingquestionsarenotpermittedoncrossexamination.",
+            "B": "(B) The scope of cross examination shall be limited to the matters or its related matter revealed in directexamination.",
+            "C": "(C) Leadingquestionsmaybeaskedincrossexaminationifnecessary.",
+            "D": "(D) Matters in supporting of new allegation by the cross-examiner may be brought out in cross examinationwiththecourt’spermission."
+        },
+        "answer": "A",
+        "date": 112,
+        "gpt_answer": "A",
+        "deepseek_answer": "A"
+    },
+    {
+        "question": "John, a trader, imports a cargo of cigarettes without declaring to the customs and import duties chargeableuponthem.Heissaidtohavecommitted .",
+        "choices": {
+            "A": "(A) slander",
+            "B": "(B) smuggling",
+            "C": "(C) slavery",
+            "D": "(D) sojourning"
+        },
+        "answer": "B",
+        "date": 112,
+        "gpt_answer": "B",
+        "deepseek_answer": "B"
+    },
+    {
+        "question": "of the Constitution, the peopleshall have the right of election, , initiative andreferendum.",
+        "choices": {
+            "A": "(A) reelection",
+            "B": "(B) recall",
+            "C": "(C) revocation",
+            "D": "(D) replacement"
+        },
+        "answer": "B",
+        "date": 112,
+        "gpt_answer": "B",
+        "deepseek_answer": "B"
+    },
+    {
+        "question": "indicates that different treatment based on sexual orientation should besubjecttoheightened .",
+        "choices": {
+            "A": "(A) criterion",
+            "B": "(B) certiorari",
+            "C": "(C) screen",
+            "D": "(D) scrutiny"
+        },
+        "answer": "D",
+        "date": 112,
+        "gpt_answer": "D",
+        "deepseek_answer": "D"
+    },
+    {
+        "question": "TheCommerceClausereferstoArticle1,Section8,Clause3oftheU.S.Constitution,whichgivesCongressthepower“toregulatecommercewithforeignnations,andamongtheseveralstates,andwiththeIndiantribes.”OurcaselawfirmlyestablishesCongress’CommerceClausepowertoregulatepurelylocalactivitiesthatarepartofaneconomic“classofactivities”thathaveasubstantialeffecton .",
+        "choices": {
+            "A": "(A) stateaffairs",
+            "B": "(B) intrastatecommerce",
+            "C": "(C) foreignaffairs",
+            "D": "(D) interstatecommerce"
+        },
+        "answer": "D",
+        "date": 112,
+        "gpt_answer": "D",
+        "deepseek_answer": "D"
+    },
+    {
+        "question": "In theeventthatanydirector,supervisor,managerialofficerorshareholderholdingmorethan10%sharesofacompanysellsthelistedshareswithinsixmonthsafteritsacquisition,thecompanyshallrecoverfromsuchpersonsanyprofitsmadeinthe transactions.",
+        "choices": {
+            "A": "(A) shortselling",
+            "B": "(B) shortswing",
+            "C": "(C) falsetrading",
+            "D": "(D) insidertrading"
+        },
+        "answer": "B",
+        "date": 112,
+        "gpt_answer": "B",
+        "deepseek_answer": "B"
+    },
+    {
+        "question": "John,anelectronicengineer,wasfiredbyhiscompany.Toexpresshisanguish,Johnmaliciouslystartedafiretodestroyhisboss’shouse.Heissaidtohavecommitted .",
+        "choices": {
+            "A": "(A) arraign",
+            "B": "(B) arrest",
+            "C": "(C) arson",
+            "D": "(D) article"
+        },
+        "answer": "C",
+        "date": 112,
+        "gpt_answer": "C",
+        "deepseek_answer": "C"
+    },
+    {
+        "question": "AJustice whoagrees withthe holdingofthe decisionbutisnot fullysatisfiedwith its reasoningmayissuea opinion.",
+        "choices": {
+            "A": "(A) dissenting",
+            "B": "(B) minority",
+            "C": "(C) concurring",
+            "D": "(D) differential"
+        },
+        "answer": "C",
+        "date": 112,
+        "gpt_answer": "C",
+        "deepseek_answer": "C"
+    }
+]
