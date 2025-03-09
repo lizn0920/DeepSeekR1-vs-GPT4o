@@ -28,7 +28,7 @@ def ask_gpt(full_prompt, retry=3):
                 temperature=0.1,
                 max_tokens=2,
             )
-            # ✅ 檢查 API 回應
+            # 檢查 API 回應
             print(f"🟢 API 回應類型: {type(response)}")
 
             # 檢查 response 是否為字串
@@ -38,7 +38,7 @@ def ask_gpt(full_prompt, retry=3):
                 print(f"⚠️ 第 {attempt+1} 次請求 API，結果是空字串，重試中...")
                 time.sleep(3)  # 等待 2 秒再試
             else:
-                return response.choices[0].message.content  # ✅ 正確的方式
+                return response.choices[0].message.content 
 
         except Exception as e:
             print(f"❌ 發生錯誤: {e}")
@@ -68,29 +68,7 @@ def save_data(data, filename):
     print(f"✅ 資料已儲存至 {filename}")
 
 
-def evaluate_accuracy(data):
-    """計算 GPT 回答的正確率"""
-    correct = 0
-    total = len(data)
-
-    for item in data:
-        if "answer" in item and "gpt_answer" in item:
-            answer_map = {"1": "A", "2": "B", "3": "C", "4": "D"}
-            correct_answer = answer_map.get(
-                item["answer"].strip(), item["answer"].strip()
-            )
-            gpt_answer = answer_map.get(
-                item["gpt_answer"].strip(), item["gpt_answer"].strip()
-            )
-            if correct_answer.upper() == gpt_answer.upper():
-                correct += 1
-
-    accuracy = (correct / total) * 100 if total > 0 else 0
-    print(f"✅ GPT 正確率: {accuracy:.2f}% ({correct}/{total})")
-    return accuracy
-
-
-"""讀取試題，詢問 GPT，儲存答案，並計算正確率"""
+"""讀取試題，詢問AI，儲存答案，並計算正確率"""
 data = load_data("民法exam_questions.json")
 
 start = time.time()
@@ -100,14 +78,14 @@ for item in data:
     formatted_choices = "\n".join([f"{value}" for key, value in choices.items()])
 
     full_prompt = f"根據台灣法律，請回答以下問題：【請務必根據台灣法條回答，不要編造或推測】問題：{question}\n請從以下選項選擇：\n{formatted_choices}"
-    gpt_answer = ask_gpt(full_prompt)
-    item["deepseek_answer"] = gpt_answer  # 存入 GPT 的回答
-    print(gpt_answer)
+    ai_answer = ask_gpt(full_prompt)
+    item["deepseek_answer"] = ai_answer  
+    print(ai_answer)
     save_data(data, "updated_deepseek_r1_" + "民法exam_questions.json")
 
 
 end = time.time()
-print("✅✅✅程序运行时间为: %s Seconds" % (end - start))
+print("✅✅✅運行時間: %s Seconds" % (end - start))
 
 with open("updated_deepseek_r1_民法exam_questions.json", "r", encoding="utf-8") as f:
     k = json.load(f)
